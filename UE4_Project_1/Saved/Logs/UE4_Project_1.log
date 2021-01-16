@@ -815,3 +815,76 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.16-10.38.45:718][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2021.01.16-10.38.45:723][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2021.01.16-10.38.46:253][  0]LogCollectionManager: Loaded 0 collections in 0.000623 seconds
+[2021.01.16-10.38.47:365][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Blueprint Project 1/Unreal-Blueprint-Project-1/UE4_Project_1/Saved/Collections/' took 0.01s
+[2021.01.16-10.38.47:365][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Blueprint Project 1/Unreal-Blueprint-Project-1/UE4_Project_1/Content/Developers/adas0/Collections/' took 0.01s
+[2021.01.16-10.38.47:365][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Blueprint Project 1/Unreal-Blueprint-Project-1/UE4_Project_1/Content/Collections/' took 0.01s
+[2021.01.16-10.38.47:365][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2021.01.16-10.38.47:435][  0]LogContentBrowser: Native class hierarchy populated in 0.0255 seconds. Added 2732 classes and 659 folders.
+[2021.01.16-10.38.47:977][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.01.16-10.38.47:979][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.16-10.38.47:979][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.16-10.38.47:980][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.16-10.38.47:980][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.16-10.38.47:980][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.16-10.38.47:981][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.16-10.38.47:981][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.16-10.38.47:981][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.16-10.38.47:982][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.16-10.38.47:982][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.16-10.38.47:982][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.16-10.38.47:983][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.16-10.38.47:983][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.16-10.38.47:983][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.16-10.38.47:984][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.16-10.38.47:984][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.16-10.38.47:985][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.16-10.38.47:985][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.16-10.38.47:985][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.16-10.38.47:986][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.16-10.38.47:986][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.16-10.38.47:986][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.16-10.38.47:987][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.16-10.38.47:987][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.16-10.38.47:988][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.16-10.38.47:988][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.16-10.38.48:002][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.01.16-10.38.48:114][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2021.01.16-10.38.51:150][  0]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.01.16-10.38.51:324][  0]LogSlate: Took 0.000140 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.01.16-10.38.51:510][  0]LogSlate: Took 0.097447 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.01.16-10.38.52:030][  0]LogRenderer: Reallocating scene render targets to support 1376x620 Format 10 NumSamples 1 (Frame:1).
+[2021.01.16-10.38.52:912][  0]LogSlate: Took 0.000117 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.16-10.38.53:278][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.01.16-10.38.53:278][  0]LogLoad: (Engine Initialization) Total time: 64.30 seconds
+[2021.01.16-10.38.53:278][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.01.16-10.38.53:512][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.01.16-10.38.54:946][ 86]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.01.16-10.38.56:797][ 86]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.16-10.38.58:375][190]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.16-10.38.58:495][190]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2021.01.16-10.38.58:561][190]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.16-10.38.58:761][190]PIE: New page: PIE session: FirstPersonExampleMap (Jan 16, 2021, 9:38:58 PM)
+[2021.01.16-10.38.58:920][190]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.01.16-10.38.58:997][190]LogPlayLevel: PIE: StaticDuplicateObject took: (0.076334s)
+[2021.01.16-10.38.58:997][190]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.01.16-10.38.58:998][190]LogPlayLevel: PIE: World Init took: (0.000789s)
+[2021.01.16-10.38.59:003][190]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.082389s)
+[2021.01.16-10.38.59:040][190]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2021.01.16-10.38.59:144][190]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2021.01.16-10.38.59:154][190]LogInit: FAudioDevice initialized.
+[2021.01.16-10.38.59:271][190]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.01.16-10.38.59:590][190]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.01.16-16.08.59
+[2021.01.16-10.38.59:762][190]LogWorld: Bringing up level for play took: 0.181550
+[2021.01.16-10.39.00:231][190]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2021.01.16-10.39.00:369][190]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 2.67
+[2021.01.16-10.39.00:370][190]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2021.01.16-10.39.04:396][551]LogAssetRegistry: Asset discovery search completed in 68.3962 seconds
+[2021.01.16-10.39.04:397][551]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2021.01.16-10.39.04:397][551]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000024 seconds (updated 0 objects)
+[2021.01.16-10.40.22:357][883]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2021.01.16-10.40.22:369][883]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.16-10.40.22:449][883]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.16-10.40.22:449][883]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2021.01.16-10.40.22:491][883]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.16-10.40.22:494][883]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2021.01.16-10.40.22:514][884]LogPlayLevel: Display: Destroying online subsystem :Context_3
