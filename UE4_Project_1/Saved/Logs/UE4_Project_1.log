@@ -888,3 +888,122 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.16-10.40.22:491][883]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2021.01.16-10.40.22:494][883]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
 [2021.01.16-10.40.22:514][884]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2021.01.16-10.42.11:144][441]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.01.16-10.42.12:289][553]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.01.16-10.42.30:656][605]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.16-10.42.30:752][613]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.16-10.42.30:760][613]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2021.01.16-10.42.30:761][613]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.16-10.42.30:761][613]PIE: New page: PIE session: FirstPersonExampleMap (Jan 16, 2021, 9:42:30 PM)
+[2021.01.16-10.42.30:761][613]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.01.16-10.42.30:770][613]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009430s)
+[2021.01.16-10.42.30:771][613]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.01.16-10.42.30:787][613]LogPlayLevel: PIE: World Init took: (0.016378s)
+[2021.01.16-10.42.30:787][613]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.025959s)
+[2021.01.16-10.42.30:810][613]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2021.01.16-10.42.30:818][613]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2021.01.16-10.42.30:826][613]LogInit: FAudioDevice initialized.
+[2021.01.16-10.42.30:876][613]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.01.16-10.42.30:878][613]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.01.16-16.12.30
+[2021.01.16-10.42.30:878][613]LogWorld: Bringing up level for play took: 0.001695
+[2021.01.16-10.42.30:891][613]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.809
+[2021.01.16-10.42.30:891][613]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2021.01.16-10.42.57:154][762]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1211.558 Y=-85.563 Z=254.165] for [FirstPersonProjectile_C]
+[2021.01.16-10.42.57:346][785]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1184.794 Y=-152.577 Z=316.662] for [FirstPersonProjectile_C]
+[2021.01.16-10.42.57:535][805]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1122.342 Y=-171.015 Z=347.555] for [FirstPersonProjectile_C]
+[2021.01.16-10.42.57:719][827]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1080.425 Y=-163.421 Z=335.548] for [FirstPersonProjectile_C]
+[2021.01.16-10.42.57:927][852]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1076.373 Y=-170.897 Z=285.474] for [FirstPersonProjectile_C]
+[2021.01.16-10.42.58:118][875]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1043.554 Y=-189.019 Z=257.984] for [FirstPersonProjectile_C]
+[2021.01.16-10.42.58:301][897]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1068.859 Y=-232.278 Z=294.751] for [FirstPersonProjectile_C]
+[2021.01.16-10.43.11:160][435]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2021.01.16-10.43.11:160][435]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.16-10.43.11:190][435]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.16-10.43.11:190][435]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2021.01.16-10.43.11:218][435]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.16-10.43.11:221][435]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2021.01.16-10.43.11:266][438]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2021.01.16-10.43.53:853][833]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.16-10.44.21:048][645]LogSlate: Took 0.022897 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.01.16-10.44.25:344][ 83]LogSlate: Window 'Tutorials' being destroyed
+[2021.01.16-10.44.37:306][430]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.01.16-10.44.38:133][521]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.16-10.44.39:198][643]LogUObjectGlobals: Warning: Failed to find object 'Object None.LevelToolbarPlay'
+[2021.01.16-10.44.42:588][ 45]LogSlate: Window 'Tutorials' being destroyed
+[2021.01.16-10.44.42:591][ 45]LogSlate: Window 'Tutorials' being destroyed
+[2021.01.16-10.45.59:532][450]LogSlate: Window 'New Level' being destroyed
+[2021.01.16-10.45.59:539][450]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.16-10.45.59:542][450]LogSlate: Took 0.000164 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.16-10.45.59:551][450]LightingResults: New page: Lighting Build
+[2021.01.16-10.45.59:552][450]LoadErrors: New page: Loading map: Template_Default.umap
+[2021.01.16-10.45.59:554][450]MapCheck: New page: Map Check
+[2021.01.16-10.45.59:554][450]LightingResults: New page: Lighting Build
+[2021.01.16-10.45.59:582][450]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2021.01.16-10.45.59:597][450]LogAIModule: Creating AISystem for world Untitled_1
+[2021.01.16-10.45.59:603][450]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.16-10.45.59:629][450]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2021.01.16-10.45.59:633][450]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.16-10.45.59:633][450]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.112ms to complete.
+[2021.01.16-10.45.59:633][450]LogFileHelpers: Loading map 'Template_Default' took 0.095
+[2021.01.16-10.46.06:725][291]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2021.01.16-10.46.11:032][803]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.01.16-10.46.13:465][ 91]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.01.16-10.46.14:436][206]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.01.16-10.46.21:099][  3]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2021.01.16-10.46.42:355][713]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.16-10.46.53:290][  8]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (53.596 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.01.16-10.48.29:861][383]LogSlate: Window 'Save Level As' being destroyed
+[2021.01.16-10.48.30:018][383]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2021.01.16-10.48.30:045][383]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2021.01.16-10.48.30:625][383]LogSavePackage: Moving 'D:/Unreal Blueprint Project 1/Unreal-Blueprint-Project-1/UE4_Project_1/Saved/Level_Chapter1111077984E35DE7718C0138D89680BBD.tmp' to 'D:/Unreal Blueprint Project 1/Unreal-Blueprint-Project-1/UE4_Project_1/Content/Maps/Level_Chapter1.umap'
+[2021.01.16-10.48.30:832][383]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_Chapter1_BuiltData" FILE="D:/Unreal Blueprint Project 1/Unreal-Blueprint-Project-1/UE4_Project_1/Content/Maps/Level_Chapter1_BuiltData.uasset" SILENT=true
+[2021.01.16-10.48.30:873][383]LogSavePackage: Moving 'D:/Unreal Blueprint Project 1/Unreal-Blueprint-Project-1/UE4_Project_1/Saved/Level_Chapter1_BuiltData242BAB8144B77057361F06B0BC83682A.tmp' to 'D:/Unreal Blueprint Project 1/Unreal-Blueprint-Project-1/UE4_Project_1/Content/Maps/Level_Chapter1_BuiltData.uasset'
+[2021.01.16-10.48.30:879][383]LogFileHelpers: Saving map 'Level_Chapter1' took 0.988
+[2021.01.16-10.48.30:880][383]Cmd: MAP LOAD FILE="D:/Unreal Blueprint Project 1/Unreal-Blueprint-Project-1/UE4_Project_1/Content/Maps/Level_Chapter1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.16-10.48.30:886][383]LightingResults: New page: Lighting Build
+[2021.01.16-10.48.30:886][383]LoadErrors: New page: Loading map: Level_Chapter1.umap
+[2021.01.16-10.48.30:887][383]MapCheck: New page: Map Check
+[2021.01.16-10.48.30:887][383]LightingResults: New page: Lighting Build
+[2021.01.16-10.48.30:911][383]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2021.01.16-10.48.30:922][383]LogAIModule: Creating AISystem for world Level_Chapter1
+[2021.01.16-10.48.30:925][383]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.16-10.48.30:950][383]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2021.01.16-10.48.30:968][383]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.16-10.48.30:968][383]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.077ms to complete.
+[2021.01.16-10.48.30:968][383]LogFileHelpers: Loading map 'Level_Chapter1' took 0.089
+[2021.01.16-10.48.50:304][674]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.01.16-10.48.53:294][ 29]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (22.306 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.01.16-10.49.01:974][ 71]LogHttp: Warning: 0000022155A7A0C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.01.16-10.49.01:974][ 71]LogHttp: Warning: 0000022155A7A0C0: libcurl info message cache 0 (Connection 2 seems to be dead!)
+[2021.01.16-10.49.01:974][ 71]LogHttp: Warning: 0000022155A7A0C0: libcurl info message cache 1 (Closing connection 2)
+[2021.01.16-10.49.01:974][ 71]LogHttp: Warning: 0000022155A7A0C0: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2021.01.16-10.49.01:974][ 71]LogHttp: Warning: 0000022155A7A0C0: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.01.16-10.49.01:974][ 71]LogHttp: Warning: 0000022155A7A0C0: libcurl info message cache 4 (Closing connection 3)
+[2021.01.16-10.49.01:982][ 72]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6D8EE0C7-426C-7DE3-6292-0AAEEEF6CF5A%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=aa0bc5eb4f696338b6bb95bd5b486d6a%7C3bfaff8c9cd44b7aa4e7d899af0c2ead%7Cd290ac45-cdd5-4758-abac-02670cbb7028&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.01.16-10.51.05:892][927]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.01.16-10.51.26:638][329]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.01.16-10.51.27:670][446]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.01.16-10.51.28:068][492]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.01.16-10.51.28:761][573]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.01.16-10.51.29:593][671]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.01.16-10.51.34:443][243]Cmd: TRANSACTION UNDO
+[2021.01.16-10.51.34:443][243]LogEditorTransaction: Undo Move Actors
+[2021.01.16-10.51.36:525][468]Cmd: TRANSACTION UNDO
+[2021.01.16-10.51.36:525][468]LogEditorTransaction: Undo Clicking on Actors
+[2021.01.16-10.53.15:843][381]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.01.16-10.53.42:832][604]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.16-10.53.45:017][856]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.01.16-10.53.55:587][105]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.16-10.53.58:877][496]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.01.16-10.54.24:724][292]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.16-10.54.41:947][342]Cmd: DELETE
+[2021.01.16-10.54.41:947][342]Cmd: ACTOR DELETE
+[2021.01.16-10.54.42:252][342]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.16-10.54.42:288][342]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.01.16-10.54.42:289][342]LogEditorActor: Deleted 1 Actors (0.074 secs)
+[2021.01.16-10.57.03:360][715]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.16-10.57.04:504][715]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2021.01.16-10.58.40:620][154]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.16-10.58.40:885][154]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2021.01.16-10.58.41:134][154]LogSavePackage: Moving 'D:/Unreal Blueprint Project 1/Unreal-Blueprint-Project-1/UE4_Project_1/Saved/Level_Chapter1_Auto1E4B0F20E49930FAAABDC53BC68B939D2.tmp' to 'D:/Unreal Blueprint Project 1/Unreal-Blueprint-Project-1/UE4_Project_1/Saved/Autosaves/Game/Maps/Level_Chapter1_Auto1.umap'
+[2021.01.16-10.58.41:138][154]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level_Chapter1' took 0.278
+[2021.01.16-10.58.41:138][154]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.278
