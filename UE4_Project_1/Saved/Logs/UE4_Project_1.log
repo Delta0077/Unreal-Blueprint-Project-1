@@ -1007,3 +1007,31 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.16-10.58.41:134][154]LogSavePackage: Moving 'D:/Unreal Blueprint Project 1/Unreal-Blueprint-Project-1/UE4_Project_1/Saved/Level_Chapter1_Auto1E4B0F20E49930FAAABDC53BC68B939D2.tmp' to 'D:/Unreal Blueprint Project 1/Unreal-Blueprint-Project-1/UE4_Project_1/Saved/Autosaves/Game/Maps/Level_Chapter1_Auto1.umap'
 [2021.01.16-10.58.41:138][154]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level_Chapter1' took 0.278
 [2021.01.16-10.58.41:138][154]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.278
+[2021.01.16-11.02.46:654][674]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2021.01.16-11.02.46:660][674]LogMaterial: Display: Missing cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2021.01.16-11.02.51:302][674]LogShaderCompilers: Display: Shaders left to compile 110
+[2021.01.16-11.02.51:302][674]LogShaderCompilers: Display: Shaders left to compile 100
+[2021.01.16-11.02.51:302][674]LogShaderCompilers: Display: Shaders left to compile 90
+[2021.01.16-11.02.51:302][674]LogShaderCompilers: Display: Shaders left to compile 80
+[2021.01.16-11.02.51:302][674]LogShaderCompilers: Display: Shaders left to compile 70
+[2021.01.16-11.02.51:302][674]LogShaderCompilers: Display: Shaders left to compile 60
+[2021.01.16-11.02.51:302][674]LogShaderCompilers: Display: Shaders left to compile 50
+[2021.01.16-11.02.51:302][674]LogShaderCompilers: Display: Shaders left to compile 40
+[2021.01.16-11.02.51:302][674]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.01.16-11.02.51:302][674]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.16-11.02.51:302][674]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.01.16-11.04.42:485][912]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.16-11.06.12:084][921]Cmd: TRANSACTION UNDO
+[2021.01.16-11.06.12:084][921]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.01.16-11.06.27:989][500]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.16-11.06.59:957][332]Cmd: TRANSACTION UNDO
+[2021.01.16-11.06.59:957][332]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.01.16-11.06.59:980][332]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2021.01.16-11.07.01:607][516]Cmd: TRANSACTION UNDO
+[2021.01.16-11.07.01:607][516]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.01.16-11.08.40:971][423]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.16-11.08.41:013][423]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2021.01.16-11.08.41:267][423]LogSavePackage: Moving 'D:/Unreal Blueprint Project 1/Unreal-Blueprint-Project-1/UE4_Project_1/Saved/Level_Chapter1_Auto28E15F5C64795F9AC2BDD8ABC44C16083.tmp' to 'D:/Unreal Blueprint Project 1/Unreal-Blueprint-Project-1/UE4_Project_1/Saved/Autosaves/Game/Maps/Level_Chapter1_Auto2.umap'
+[2021.01.16-11.08.41:271][423]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level_Chapter1' took 0.284
+[2021.01.16-11.08.41:271][423]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.284
+[2021.01.16-11.08.53:374][870]LogSlate: FSceneViewport::OnFocusLost() reason 2
